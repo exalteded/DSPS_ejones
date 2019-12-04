@@ -3,7 +3,7 @@ The rest of us met to review and check their work on monday, and personalized th
 
 Non Deep Dream Image
 
-![Non Deep Dream Image](HW12/izzet guildate1.jpg)
+![Non Deep Dream Image](https://github.com/exalteded/DSPS_ejones/blob/master/HW12/izzet%20guildate1.jpg?raw=true)
 
 Deep Dream Image
 
