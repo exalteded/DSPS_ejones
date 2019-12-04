@@ -7,4 +7,4 @@ Non Deep Dream Image
 
 Deep Dream Image
 
-![Deep Dream Image](HW12/izzet guildgate1 deepdream.png)
+![Deep Dream Image](https://raw.githubusercontent.com/exalteded/DSPS_ejones/master/HW12/izzet%20guildgate1%20deepdream.png)
